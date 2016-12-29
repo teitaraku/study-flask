@@ -1,0 +1,6 @@
+# emacs temporary files
+*~
+# pyenv
+env/
+# python compiled files
+*.pyc
